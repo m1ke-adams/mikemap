@@ -1,0 +1,2 @@
+"taranacak ip adresini yazın buraya"
+127.0.0.1
