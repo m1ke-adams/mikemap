@@ -27,3 +27,4 @@ for ip in ips.splitlines():
             pass
 print(pl)
 print(bl)
+print("port tarama bitmiştir :)")
