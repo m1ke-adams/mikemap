@@ -7,7 +7,7 @@ ips=file.read()
 file.close()
 for ip in ips.splitlines():
     print(ip)
-    for port in range(1,25):
+    for port in range(1,65535):
         try:
             soket=socket.socket()
             soket.connect((str(ip),int(port)))
