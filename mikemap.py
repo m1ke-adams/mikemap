@@ -1,5 +1,13 @@
 from os import access
 import socket
+#bu yazılım sahibi belirtilecek şekilde değiştirilebilir veya geliştirilebilir sadece, aksi takdirde dava açılır.
+print("""
+
+┌───── •✧✧• ─────┐
+ -Yapımcı Mike adams 
+└───── •✧✧• ─────┘
+Port Scan tool v1.0
+""")
 pl="ip adresleri: "
 bl="açık portlar: "
 file=open("ip.txt","r")
