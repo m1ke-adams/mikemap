@@ -1,2 +1,2 @@
-"taranacak ip adresini yazın buraya"
+taranacak ip adresini giriniz ip.txt'ye
 127.0.0.1
